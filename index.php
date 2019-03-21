@@ -1,3 +1,3 @@
 <?php
-echo "OMAIGAT";
+echo "MY GOD";
 ?>
