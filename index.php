@@ -1,3 +1,3 @@
 <?php
-echo "MEINE GOT";
+echo "HELLOOOO";
 ?>
