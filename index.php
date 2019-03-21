@@ -1,3 +1,3 @@
 <?php
-echo "MY GOD";
+echo "MEINE GOD";
 ?>
